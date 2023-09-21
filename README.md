@@ -12,4 +12,4 @@ This image (1440x900) took 3h15 to render on an i7 at 3.8Ghz without concurrence
 - Specular Refraction
 - Shadows
 
-![image](./raytracedImage.png)
+![image](raytracedImage.png)
